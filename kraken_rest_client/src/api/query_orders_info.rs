@@ -65,7 +65,6 @@ pub struct OrderInfo {
     pub descr: OrderDescription,
     pub oflags: String,
     pub opentm: f64,
-    pub closetm: f64,
     pub expiretm: f64,
     pub vol: String,
     pub vol_exec: String,
